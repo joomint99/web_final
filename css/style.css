@@ -580,7 +580,7 @@ label.valid {
     -ms-order: 1;
     margin-right: 0px;
     margin-left: 0px;
-    padding: 0 30px; }
+}
 
   .form-title {
     text-align: center; } }
@@ -624,7 +624,7 @@ a.nav-link{
   -o-border-radius: 20px;
   -ms-border-radius: 20px; 
   background-color:white;
-  padding:70px auto;
+  padding:70px 70px 70px 70px;
 }
 
 
